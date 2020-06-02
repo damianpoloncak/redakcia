@@ -2,3 +2,6 @@ Autor: Damian Poloncak
 Nazov: Druhy
 Datum: 30.5.2020
 ----
+Uvod prva veta
+Uvod druha veta
+Uvod tretia veta
