@@ -10,4 +10,6 @@ Prvaveta v jadre
 Druha veta v jadre
 Tretia veta v jadre
 ----
-Robime na zavere
+Zaver 1 veta
+2veta 
+3veta
