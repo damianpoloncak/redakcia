@@ -1,0 +1,4 @@
+Autor: Damian Poloncak
+Nazov: Prvy clanok
+Datum: 30.5.2020
+----
