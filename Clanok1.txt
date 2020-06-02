@@ -6,3 +6,7 @@ Prva veta
 Druha veta
 Tretia veta
 ----
+Jadro 1
+Jadro 2 
+Jadro 3
+----
